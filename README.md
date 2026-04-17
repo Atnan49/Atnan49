@@ -18,7 +18,7 @@
 | :--- | :--- |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css) |
 | **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) |
-| **AI & Automation** | ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) |
+| **AI & Automation** | ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![Antigravity](https://img.shields.io/badge/Ollama-black?style=flat-square)|
 | **DevOps/System** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu) |
 
 ---
